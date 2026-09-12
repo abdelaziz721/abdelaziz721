@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdelaziz
-- 👀 I’m interested in ...
+- 👀 I’m interested in DevOps, SRE, and Platform Engineering
 - 🌱 I’m currently learning to become a strong cloud engineer...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me .@.. abdelaziz721@gmail.com
 
 <!---
